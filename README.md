@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Masaaki Manabe! 👋
 
-I am a **BEng Computing student at Imperial College London** (Class of 2028) with a passion for Machine Learning, Competitive Programming, and Application Development.
+I am a **MEng Computing student at Imperial College London** (Class of 2029) with a passion for Machine Learning, Competitive Programming, and Application Development.
 
 Previously, I conducted research on **Guitar Audio Classification** with the NII/JST STELLA program and developed social coordination tools.
 
@@ -50,6 +50,7 @@ Previously, I conducted research on **Guitar Audio Classification** with the NII
 - **Mindwalk Studio (Product Exploration Intern)** (2023)
   - Evaluated video-to-facial animation tools and AI pipelines for 3D model generation.
 
+
 ---
 
 ### 🏆 Selected Awards
@@ -60,16 +61,16 @@ Previously, I conducted research on **Guitar Audio Classification** with the NII
 - **Appli Koushien Competition** — Top 24 of 3,000 applicants (for *Sando*)
 
 ---
-
 ### 🚀 Projects
 
-**Sando — Social Calendar Application**
+**[Sando — Social Calendar Application](https://github.com/JOIMathProject/calendar_sharing)**
 - Developed a social-calendar app enabling efficient event coordination.
-- *Stack: Dart, Flutter (Assumed based on Dart skill)*
-
+- Selected among top 24 of 3,000 applicants in Appli Koushien competition.
+  
 ---
 
 ### 📫 Connect with me
 
-- **Email:** [masaaki.manabe25@imperial.ac.uk](mailto:masaaki.manabe25@imperial.ac.uk)
+- **Academic:** [masaaki.manabe25@imperial.ac.uk](mailto:masaaki.manabe25@imperial.ac.uk)
+- **Personal:** [masaaki.manabe.dev@gmail.com](mailto:masaaki.manabe.dev@gmail.com)
 - **School:** Imperial College London
